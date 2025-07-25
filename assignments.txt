@@ -1,0 +1,6206 @@
+
+Jul 6
+AM Swing/Med G (7a-3p)	
+Abay, Rebecca
+Med A	
+LaMotte, Eric
+Med B	
+Pittenger, Brook
+Med C	
+Merel, Susan
+Med D	
+Levin, Jesse
+Med E	
+Collis, Alexandra
+Med F	
+Young, Scott
+Med M	
+Bajwa, Poornima
+Med O	
+Mayo, Mark
+Med Con.	
+Chi, Frank
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Feng, K.
+Nights	
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 7
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+LaMotte, Eric
+Med B	
+Pittenger, Brook
+Med C	
+Merel, Susan
+Med D	
+Levin, Jesse
+Med E	
+Collis, Alexandra
+Med F	
+Young, Scott
+Med M	
+Haselden, Lindsay
+Med O	
+Mayo, Mark
+Med Con.	
+Chi, Frank
+Med S	
+Chen, Tiffany
+Clinic	
+Shen, Carlita
+1/2 Clinic	
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+White, Andrew
+Nights	
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 8
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+LaMotte, Eric
+Med B	
+Pittenger, Brook
+Med C	
+Merel, Susan
+Med D	
+Levin, Jesse
+Med E	
+Collis, Alexandra
+Med F	
+Young, Scott
+Med M	
+Haselden, Lindsay
+Med O	
+Mayo, Mark
+Med Con.	
+Chi, Frank
+Med S	
+Chen, Tiffany
+Clinic	
+Shepherd, Amanda
+1/2 Clinic	
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Barnes, James
+Nights	
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 9
+RISK 2 (6a-10a)	
+Bajwa, Poornima
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+Lande, Rachel
+Med M	
+Haselden, Lindsay
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+Med S	
+Chen, Tiffany
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Barnes, James
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 10
+RISK 2 (6a-10a)	
+Bajwa, Poornima
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+Lande, Rachel
+Med M	
+Haselden, Lindsay
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+Med S	
+Chen, Tiffany
+Clinic	
+Kaplan, Elizabeth
+Young, Scott
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Barnes, James
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 11
+RISK 2 (6a-10a)	
+Chi, Frank
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+Lande, Rachel
+Med M	
+White, Andrew
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+Med S	
+Chen, Tiffany
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Sunga, Cass
+Noc 2 (10p-8a)	
+Zafar, Zaeema
+Jul 12
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+Lande, Rachel
+Med M	
+White, Andrew
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Sunga, Cass
+Noc 2 (10p-8a)	
+Zafar, Zaeema
+Jul 13
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+Lande, Rachel
+Med M	
+White, Andrew
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Wilson, Julia
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Sokol-Hessner, Lauge
+Noc 2 (10p-8a)	
+Zafar, Zaeema
+Jul 14
+RISK 2 (6a-10a)	
+Abe, Ryan
+AM Swing/Med G (7a-3p)	
+Haselden, Lindsay
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+LaMotte, Eric
+Med M	
+White, Andrew
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+Med S	
+Parks, Michelle
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Rosiene, Joel
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Sokol-Hessner, Lauge
+Noc 2 (10p-8a)	
+Wilson, Julia
+Jul 15
+RISK 2 (6a-10a)	
+Abe, Ryan
+AM Swing/Med G (7a-3p)	
+Haselden, Lindsay
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Disharoon, Steven
+Med F	
+LaMotte, Eric
+Med M	
+Chi, Frank
+Med O	
+Feng, K.
+Med Con.	
+Hoy, Alex
+Med S	
+Parks, Michelle
+Clinic	
+Chen, Tiffany
+Segerson, K
+PM Swing (12p-10p)	
+Rosiene, Joel
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Levin, Jesse
+Noc 2 (10p-8a)	
+Wilson, Julia
+Jul 16
+RISK 2 (6a-10a)	
+Chen, Tiffany
+AM Swing/Med G (7a-3p)	
+Haselden, Lindsay
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+LaMotte, Eric
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+Med S	
+Parks, Michelle
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Rosiene, Joel
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Levin, Jesse
+Noc 2 (10p-8a)	
+Wilson, Julia
+Jul 17
+RISK 2 (6a-10a)	
+Chen, Tiffany
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+LaMotte, Eric
+Evans, Sophie
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+Med S	
+Parks, Michelle
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Hunt, Susan
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Wilson, Julia
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jul 18
+RISK 2 (6a-10a)	
+Chen, Tiffany
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+LaMotte, Eric
+Evans, Sophie
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+Med S	
+Parks, Michelle
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Hunt, Susan
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Haselden, Lindsay
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jul 19
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+Evans, Sophie
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Bhandari, Shiv
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jul 20
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Iacobelli, Nicholas
+Med E	
+Das, Ifna
+Med F	
+Evans, Sophie
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Parks, Michelle
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jul 21
+RISK 2 (6a-10a)	
+White, Andrew
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+Evans, Sophie
+Med M	
+Chi, Frank
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+Med S	
+Kaplan, Elizabeth
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Collis, Alexandra
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jul 22
+RISK 2 (6a-10a)	
+White, Andrew
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Sutton, Paul
+Med B	
+Shepherd, Amanda
+Med C	
+Raskob, Katie
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Das, Ifna
+Med F	
+Evans, Sophie
+Med M	
+Abay, Rebecca
+Med O	
+Mayo, Mark
+Med Con.	
+Pittenger, Brook
+Med S	
+Kaplan, Elizabeth
+Clinic	
+Mullins, Elizabeth
+Parks, Michelle
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Collis, Alexandra
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 23
+RISK 2 (6a-10a)	
+Lande, Rachel
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Fancher-Dominguez, Lexy
+Med E	
+Hunt, Susan
+Med F	
+Evans, Sophie
+Med M	
+Abay, Rebecca
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+Med S	
+Kaplan, Elizabeth
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Collis, Alexandra
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 24
+RISK 2 (6a-10a)	
+Fancher-Dominguez, Lexy
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Abay, Rebecca
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+Med S	
+Kaplan, Elizabeth
+Clinic	
+Parks, Michelle
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Chi, Frank
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 25
+RISK 2 (6a-10a)	
+Fancher-Dominguez, Lexy
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Abay, Rebecca
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+Med S	
+Kaplan, Elizabeth
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Chi, Frank
+Noc 2 (10p-8a)	
+Sunga, Cass
+Jul 26
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Parks, Michelle
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+PM Swing (12p-10p)	
+LaMotte, Eric
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Lenaeus, Mike
+Noc 2 (10p-8a)	
+Haselden, Lindsay
+Jul 27
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Parks, Michelle
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+PM Swing (12p-10p)	
+LaMotte, Eric
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Lenaeus, Mike
+Noc 2 (10p-8a)	
+Haselden, Lindsay
+Jul 28
+RISK 2 (6a-10a)	
+Mayo, Mark
+AM Swing/Med G (7a-3p)	
+Abay, Rebecca
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Parks, Michelle
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+Med S	
+Mullins, Elizabeth
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Disharoon, Steven
+Noc 1 (6p-4a)	
+Barnes, James
+RISK 1 (6p-3p)	
+Fancher-Dominguez, Lexy
+Noc 2 (10p-8a)	
+Haselden, Lindsay
+Jul 29
+RISK 2 (6a-10a)	
+Mayo, Mark
+AM Swing/Med G (7a-3p)	
+Abay, Rebecca
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Hunt, Susan
+Med F	
+Young, Scott
+Med M	
+Parks, Michelle
+Med O	
+Zafar, Zaeema
+Med Con.	
+Shen, Carlita
+Med S	
+Mullins, Elizabeth
+Clinic	
+Segerson, K
+Hoy, Alex
+PM Swing (12p-10p)	
+Disharoon, Steven
+Noc 1 (6p-4a)	
+Barnes, James
+RISK 1 (6p-3p)	
+Fancher-Dominguez, Lexy
+Noc 2 (10p-8a)	
+Abe, Ryan
+Jul 30
+RISK 2 (6a-10a)	
+Pillai, Sunita
+AM Swing/Med G (7a-3p)	
+Abay, Rebecca
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Levin, Jesse
+Med M	
+Parks, Michelle
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+Med S	
+Mullins, Elizabeth
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Disharoon, Steven
+Noc 1 (6p-4a)	
+Barnes, James
+RISK 1 (6p-3p)	
+Shepherd, Amanda
+Noc 2 (10p-8a)	
+Abe, Ryan
+Jul 31
+RISK 2 (6a-10a)	
+Pillai, Sunita
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Levin, Jesse
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+Med S	
+Mullins, Elizabeth
+Clinic	
+Young, Scott
+PM Swing (12p-10p)	
+Hoy, Alex
+Noc 1 (6p-4a)	
+Bajwa, Poornima
+RISK 1 (6p-3p)	
+Shepherd, Amanda
+Noc 2 (10p-8a)	
+Abe, Ryan
+Aug 1
+RISK 2 (6a-10a)	
+Segerson, K
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Levin, Jesse
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+Med S	
+Mullins, Elizabeth
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Hoy, Alex
+Noc 1 (6p-4a)	
+Bajwa, Poornima
+RISK 1 (6p-3p)	
+Shepherd, Amanda
+Noc 2 (10p-8a)	
+Abe, Ryan
+Aug 2
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Levin, Jesse
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+PM Swing (12p-10p)	
+Keller, Carolyn
+Noc 1 (6p-4a)	
+Bajwa, Poornima
+RISK 1 (6p-3p)	
+Hoy, Alex
+Noc 2 (10p-8a)	
+Abe, Ryan
+Aug 3
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Levin, Jesse
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+PM Swing (12p-10p)	
+Lenaeus, Mike
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Disharoon, Steven
+Noc 2 (10p-8a)	
+Bajwa, Poornima
+Aug 4
+RISK 2 (6a-10a)	
+Bhandari, Shiv
+AM Swing/Med G (7a-3p)	
+White, Andrew
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Zafar, Zaeema
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Merel, Susan
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Lazarevic-Fogelquist, Adrian
+Noc 2 (10p-8a)	
+Abe, Ryan
+Aug 5
+RISK 2 (6a-10a)	
+Bhandari, Shiv
+AM Swing/Med G (7a-3p)	
+White, Andrew
+Med A	
+Holmberg, Mack
+Med B	
+Wilson, Julia
+Med C	
+Feng, K.
+Med D	
+Iacobelli, Nicholas
+Med E	
+Pittenger, Brook
+Med F	
+Zafar, Zaeema
+Med M	
+Raskob, Katie
+Med O	
+Evans, Sophie
+Med Con.	
+Das, Ifna
+Med S	
+Hoy, Alex
+Clinic	
+Shepherd, Amanda
+Shen, Carlita
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Lazarevic-Fogelquist, Adrian
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 6
+RISK 2 (6a-10a)	
+Bhandari, Shiv
+AM Swing/Med G (7a-3p)	
+Hunt, Susan
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Zafar, Zaeema
+Med M	
+Disharoon, Steven
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+Med S	
+Hoy, Alex
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Abe, Ryan
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 7
+RISK 2 (6a-10a)	
+Raskob, Katie
+AM Swing/Med G (7a-3p)	
+Hunt, Susan
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Zafar, Zaeema
+Med M	
+Disharoon, Steven
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+Med S	
+Hoy, Alex
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Abe, Ryan
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 8
+RISK 2 (6a-10a)	
+Raskob, Katie
+AM Swing/Med G (7a-3p)	
+Hunt, Susan
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Barnes, James
+Med M	
+Disharoon, Steven
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+Med S	
+Hoy, Alex
+Clinic	
+Parks, Michelle
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Abe, Ryan
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 9
+AM Swing/Med G (7a-3p)	
+Hunt, Susan
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Barnes, James
+Med M	
+Disharoon, Steven
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Young, Scott
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 10
+AM Swing/Med G (7a-3p)	
+Hunt, Susan
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Barnes, James
+Med M	
+Disharoon, Steven
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Evans, Sophie
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Young, Scott
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Aug 11
+RISK 2 (6a-10a)	
+Iacobelli, Nicholas
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Barnes, James
+Med M	
+Pittenger, Brook
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+Med S	
+Parks, Michelle
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Chen, Tiffany
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 12
+RISK 2 (6a-10a)	
+Iacobelli, Nicholas
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Sokol-Hessner, Lauge
+Med F	
+Barnes, James
+Med M	
+Pittenger, Brook
+Med O	
+LaMotte, Eric
+Med Con.	
+Mookherjee, Som
+Med S	
+Parks, Michelle
+Clinic	
+Shen, Carlita
+Hoy, Alex
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Disharoon, Steven
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 13
+RISK 2 (6a-10a)	
+Rosiene, Joel
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Deshpande, Neha
+Med M	
+Pittenger, Brook
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+Med S	
+Parks, Michelle
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Collis, Alexandra
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Disharoon, Steven
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 14
+RISK 2 (6a-10a)	
+Rosiene, Joel
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Deshpande, Neha
+Med M	
+Pittenger, Brook
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+Med S	
+Parks, Michelle
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Collis, Alexandra
+Noc 1 (6p-4a)	
+Raskob, Katie
+RISK 1 (6p-3p)	
+Disharoon, Steven
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 15
+RISK 2 (6a-10a)	
+Rosiene, Joel
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Deshpande, Neha
+Med M	
+Pittenger, Brook
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+Med S	
+Parks, Michelle
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Collis, Alexandra
+Noc 1 (6p-4a)	
+Raskob, Katie
+RISK 1 (6p-3p)	
+Hoy, Alex
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 16
+AM Swing/Med G (7a-3p)	
+Keller, Carolyn
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Deshpande, Neha
+Med M	
+Bajwa, Poornima
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Rosiene, Joel
+Noc 1 (6p-4a)	
+Raskob, Katie
+RISK 1 (6p-3p)	
+Das, Ifna
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 17
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Deshpande, Neha
+Med M	
+Bajwa, Poornima
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Das, Ifna
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Aug 18
+RISK 2 (6a-10a)	
+Levin, Jesse
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Wilson, Julia
+Med M	
+Bajwa, Poornima
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Abay, Rebecca
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+White, Andrew
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 19
+RISK 2 (6a-10a)	
+Levin, Jesse
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Rakita, Bob
+Med B	
+Pillai, Sunita
+Med C	
+Mullins, Elizabeth
+Med D	
+Lande, Rachel
+Med E	
+Feng, K.
+Med F	
+Wilson, Julia
+Med M	
+Bajwa, Poornima
+Benson, Doug
+Med O	
+Young, Scott
+Med Con.	
+Kaplan, Elizabeth
+Med S	
+Hoy, Alex
+Clinic	
+Chen, Tiffany
+Shen, Carlita
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+White, Andrew
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 20
+RISK 2 (6a-10a)	
+Merel, Susan
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Wilson, Julia
+Med M	
+Bajwa, Poornima
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+LaMotte, Eric
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Shepherd, Amanda
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 21
+RISK 2 (6a-10a)	
+Merel, Susan
+AM Swing/Med G (7a-3p)	
+Levin, Jesse
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Wilson, Julia
+Med M	
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Lande, Rachel
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 22
+RISK 2 (6a-10a)	
+LaMotte, Eric
+AM Swing/Med G (7a-3p)	
+Levin, Jesse
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Wilson, Julia
+Med M	
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+Med S	
+Hoy, Alex
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Lande, Rachel
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 23
+AM Swing/Med G (7a-3p)	
+Merel, Susan
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Bhandari, Shiv
+Med M	
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Shepherd, Amanda
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Bajwa, Poornima
+Noc 2 (10p-8a)	
+Sunga, Cass
+Aug 24
+AM Swing/Med G (7a-3p)	
+Merel, Susan
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Bhandari, Shiv
+Med M	
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Shepherd, Amanda
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Bajwa, Poornima
+Noc 2 (10p-8a)	
+Iacobelli, Nicholas
+Aug 25
+RISK 2 (6a-10a)	
+Collis, Alexandra
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Bhandari, Shiv
+Med M	
+Benson, Doug
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+Med S	
+Shen, Carlita
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Rosiene, Joel
+Noc 2 (10p-8a)	
+Iacobelli, Nicholas
+Aug 26
+RISK 2 (6a-10a)	
+Collis, Alexandra
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Das, Ifna
+Med F	
+Bhandari, Shiv
+Med M	
+Mullins, Elizabeth
+Med O	
+Disharoon, Steven
+Med Con.	
+Zafar, Zaeema
+Med S	
+Shen, Carlita
+Clinic	
+Pittenger, Brook
+Parks, Michelle
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Rosiene, Joel
+Noc 2 (10p-8a)	
+Iacobelli, Nicholas
+Aug 27
+RISK 2 (6a-10a)	
+Feng, K.
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bhandari, Shiv
+Med M	
+Mullins, Elizabeth
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Rosiene, Joel
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Aug 28
+RISK 2 (6a-10a)	
+Feng, K.
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bajwa, Poornima
+Med M	
+Mullins, Elizabeth
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Collis, Alexandra
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Hunt, Susan
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Aug 29
+RISK 2 (6a-10a)	
+Feng, K.
+AM Swing/Med G (7a-3p)	
+Parks, Michelle
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bajwa, Poornima
+Med M	
+Mullins, Elizabeth
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Collis, Alexandra
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Hunt, Susan
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Aug 30
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bajwa, Poornima
+Med M	
+Mullins, Elizabeth
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Shen, Carlita
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Aug 31
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bajwa, Poornima
+Med M	
+Lande, Rachel
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Kusztos, Amanda
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 1
+AM Swing/Med G (7a-3p)	
+White, Andrew
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Bajwa, Poornima
+Med M	
+Lande, Rachel
+Med O	
+Keller, Carolyn
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Iacobelli, Nicholas
+Noc 1 (6p-4a)	
+Evans, Sophie
+RISK 1 (6p-3p)	
+Kusztos, Amanda
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 2
+RISK 2 (6a-10a)	
+Mayo, Mark
+AM Swing/Med G (7a-3p)	
+White, Andrew
+Med A	
+Bomsztyk, Karol
+Med B	
+Haselden, Lindsay
+Med C	
+Lenaeus, Mike
+Med D	
+Abay, Rebecca
+Med E	
+Pillai, Sunita
+Med F	
+Raskob, Katie
+Med M	
+Lande, Rachel
+Med O	
+Benson, Doug
+Med Con.	
+Hoy, Alex
+Med S	
+Zafar, Zaeema
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Iacobelli, Nicholas
+Noc 1 (6p-4a)	
+Evans, Sophie
+RISK 1 (6p-3p)	
+Kusztos, Amanda
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 3
+RISK 2 (6a-10a)	
+Mayo, Mark
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Raskob, Katie
+Med M	
+Lande, Rachel
+Parekh, Pooja
+Med O	
+Keller, Carolyn
+Med Con.	
+Zafar, Zaeema
+Med S	
+Mullins, Elizabeth
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Evans, Sophie
+RISK 1 (6p-3p)	
+Deshpande, Neha
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 4
+RISK 2 (6a-10a)	
+Sokol-Hessner, Lauge
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Raskob, Katie
+Med M	
+Lande, Rachel
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+Med S	
+Mullins, Elizabeth
+Clinic	
+Kaplan, Elizabeth
+Hoy, Alex
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Evans, Sophie
+RISK 1 (6p-3p)	
+Deshpande, Neha
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 5
+RISK 2 (6a-10a)	
+Sokol-Hessner, Lauge
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Raskob, Katie
+Med M	
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+Med S	
+Mullins, Elizabeth
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Evans, Sophie
+RISK 1 (6p-3p)	
+Wilson, Julia
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 6
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Raskob, Katie
+Med M	
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Disharoon, Steven
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Haselden, Lindsay
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Sep 7
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Shepherd, Amanda
+Med M	
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Disharoon, Steven
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Barnes, James
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Sep 8
+RISK 2 (6a-10a)	
+Das, Ifna
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Shepherd, Amanda
+Med M	
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+Med S	
+Abay, Rebecca
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Evans, Sophie
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Sep 9
+RISK 2 (6a-10a)	
+Das, Ifna
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Feng, K.
+Med F	
+Shepherd, Amanda
+Med M	
+Parekh, Pooja
+Med O	
+Benson, Doug
+Med Con.	
+Zafar, Zaeema
+Med S	
+Abay, Rebecca
+Clinic	
+Chen, Tiffany
+Hoy, Alex
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Evans, Sophie
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Sep 10
+RISK 2 (6a-10a)	
+Das, Ifna
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Shepherd, Amanda
+Med M	
+Deshpande, Neha
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+Med S	
+Abay, Rebecca
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Haselden, Lindsay
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Sep 11
+RISK 2 (6a-10a)	
+Hoy, Alex
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Shepherd, Amanda
+Med M	
+Deshpande, Neha
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+Med S	
+Abay, Rebecca
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Haselden, Lindsay
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 12
+RISK 2 (6a-10a)	
+Barnes, James
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Evans, Sophie
+Med M	
+Deshpande, Neha
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+Med S	
+Abay, Rebecca
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Sokol-Hessner, Lauge
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 13
+RISK 2 (6a-10a)	
+Benson, Doug
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Evans, Sophie
+Med M	
+Deshpande, Neha
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Haselden, Lindsay
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Abay, Rebecca
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 14
+RISK 2 (6a-10a)	
+Benson, Doug
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Evans, Sophie
+Med M	
+Deshpande, Neha
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Haselden, Lindsay
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Abay, Rebecca
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 15
+RISK 2 (6a-10a)	
+Bajwa, Poornima
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Evans, Sophie
+Med M	
+Das, Ifna
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+Med S	
+Hoy, Alex
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Haselden, Lindsay
+Parekh, Pooja
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Merel, Susan
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Sep 16
+RISK 2 (6a-10a)	
+Sunga, Cass
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Parks, Michelle
+Med B	
+Collis, Alexandra
+Med C	
+Hunt, Susan
+Med D	
+Young, Scott
+Med E	
+Iacobelli, Nicholas
+Med F	
+Evans, Sophie
+Med M	
+Das, Ifna
+Med O	
+Lenaeus, Mike
+Med Con.	
+Mullins, Elizabeth
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+Abay, Rebecca
+PM Swing (12p-10p)	
+Parekh, Pooja
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Merel, Susan
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 17
+RISK 2 (6a-10a)	
+Sunga, Cass
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Pillai, Sunita
+Med M	
+Das, Ifna
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+Med S	
+Hoy, Alex
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Parekh, Pooja
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Levin, Jesse
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 18
+RISK 2 (6a-10a)	
+Haselden, Lindsay
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Pillai, Sunita
+Med M	
+Das, Ifna
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+Med S	
+Hoy, Alex
+Clinic	
+Parks, Michelle
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Levin, Jesse
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 19
+RISK 2 (6a-10a)	
+Haselden, Lindsay
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Pillai, Sunita
+Med M	
+Das, Ifna
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+Med S	
+Hoy, Alex
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Levin, Jesse
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 20
+RISK 2 (6a-10a)	
+Abay, Rebecca
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Pillai, Sunita
+Med M	
+Trudeau, Brittany
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Parekh, Pooja
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 21
+RISK 2 (6a-10a)	
+Abay, Rebecca
+AM Swing/Med G (7a-3p)	
+LaMotte, Eric
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Pillai, Sunita
+Med M	
+Trudeau, Brittany
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Parekh, Pooja
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 22
+RISK 2 (6a-10a)	
+Abay, Rebecca
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Evans, Sophie
+Med M	
+Trudeau, Brittany
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+Med S	
+Zafar, Zaeema
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Mullins, Elizabeth
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Parekh, Pooja
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Sep 23
+RISK 2 (6a-10a)	
+Pillai, Sunita
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Lande, Rachel
+Med F	
+Evans, Sophie
+Med M	
+Trudeau, Brittany
+Med O	
+Bajwa, Poornima
+Med Con.	
+Pittenger, Brook
+Med S	
+Zafar, Zaeema
+Clinic	
+Shen, Carlita
+Hoy, Alex
+PM Swing (12p-10p)	
+Mullins, Elizabeth
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Feng, K.
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 24
+RISK 2 (6a-10a)	
+Pillai, Sunita
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Evans, Sophie
+Med M	
+Trudeau, Brittany
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+Med S	
+Zafar, Zaeema
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Mullins, Elizabeth
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Feng, K.
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 25
+RISK 2 (6a-10a)	
+Merel, Susan
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Evans, Sophie
+Med M	
+Collis, Alexandra
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+Med S	
+Zafar, Zaeema
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Feng, K.
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 26
+RISK 2 (6a-10a)	
+Shen, Carlita
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Evans, Sophie
+Med M	
+Collis, Alexandra
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+Med S	
+Zafar, Zaeema
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Lazarevic-Fogelquist, Adrian
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 27
+RISK 2 (6a-10a)	
+Evans, Sophie
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Hunt, Susan
+Med M	
+Collis, Alexandra
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+PM Swing (12p-10p)	
+Shen, Carlita
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Lazarevic-Fogelquist, Adrian
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 28
+RISK 2 (6a-10a)	
+Evans, Sophie
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Hunt, Susan
+Med M	
+Collis, Alexandra
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+PM Swing (12p-10p)	
+Shen, Carlita
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Disharoon, Steven
+Noc 2 (10p-8a)	
+Sunga, Cass
+Sep 29
+RISK 2 (6a-10a)	
+Zafar, Zaeema
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Hunt, Susan
+Med M	
+Collis, Alexandra
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+Med S	
+Pittenger, Brook
+Clinic	
+Young, Scott
+PM Swing (12p-10p)	
+Shen, Carlita
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Trudeau, Brittany
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Sep 30
+RISK 2 (6a-10a)	
+LaMotte, Eric
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Amory, John
+Med B	
+Segerson, K
+Med C	
+Barnes, James
+Med D	
+Chen, Tiffany
+Med E	
+Benson, Doug
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Haselden, Lindsay
+Med Con.	
+Parks, Michelle
+Med S	
+Pittenger, Brook
+Clinic	
+Young, Scott
+Abay, Rebecca
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Trudeau, Brittany
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 1
+RISK 2 (6a-10a)	
+Zafar, Zaeema
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+Med S	
+Pittenger, Brook
+Clinic	
+Young, Scott
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Collis, Alexandra
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 2
+RISK 2 (6a-10a)	
+Auduong, L.
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Disharoon, Steven
+Med M	
+Parekh, Pooja
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+Med S	
+Pittenger, Brook
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Shen, Carlita
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 3
+RISK 2 (6a-10a)	
+Auduong, L.
+AM Swing/Med G (7a-3p)	
+Shepherd, Amanda
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Disharoon, Steven
+Med M	
+Parekh, Pooja
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+Med S	
+Pittenger, Brook
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Trudeau, Brittany
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Shen, Carlita
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 4
+RISK 2 (6a-10a)	
+Hunt, Susan
+AM Swing/Med G (7a-3p)	
+Shepherd, Amanda
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Disharoon, Steven
+Med M	
+Parekh, Pooja
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Trudeau, Brittany
+Benson, Doug
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Lande, Rachel
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 5
+RISK 2 (6a-10a)	
+Hunt, Susan
+AM Swing/Med G (7a-3p)	
+Shepherd, Amanda
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Disharoon, Steven
+Med M	
+Haselden, Lindsay
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Lande, Rachel
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Oct 6
+RISK 2 (6a-10a)	
+Lenaeus, Mike
+AM Swing/Med G (7a-3p)	
+Barnes, James
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Disharoon, Steven
+Med M	
+Haselden, Lindsay
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+Med S	
+Young, Scott
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Lande, Rachel
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 7
+RISK 2 (6a-10a)	
+Lenaeus, Mike
+AM Swing/Med G (7a-3p)	
+Barnes, James
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Hoy, Alex
+Med F	
+Wilson, Julia
+Med M	
+Haselden, Lindsay
+Med O	
+Merel, Susan
+Med Con.	
+Abay, Rebecca
+Med S	
+Young, Scott
+Clinic	
+Shepherd, Amanda
+Chen, Tiffany
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Trudeau, Brittany
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 8
+RISK 2 (6a-10a)	
+Parekh, Pooja
+AM Swing/Med G (7a-3p)	
+Barnes, James
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Wilson, Julia
+Med M	
+Haselden, Lindsay
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+Med S	
+Young, Scott
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Trudeau, Brittany
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 9
+RISK 2 (6a-10a)	
+Parekh, Pooja
+AM Swing/Med G (7a-3p)	
+Collis, Alexandra
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Wilson, Julia
+Med M	
+Haselden, Lindsay
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+Med S	
+Young, Scott
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Kusztos, Amanda
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 10
+RISK 2 (6a-10a)	
+Parekh, Pooja
+AM Swing/Med G (7a-3p)	
+Collis, Alexandra
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Wilson, Julia
+Med M	
+Lande, Rachel
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+Med S	
+Young, Scott
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Kusztos, Amanda
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 11
+RISK 2 (6a-10a)	
+Barnes, James
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Wilson, Julia
+Med M	
+Lande, Rachel
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Bhandari, Shiv
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 12
+RISK 2 (6a-10a)	
+Barnes, James
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Lenaeus, Mike
+Med M	
+Lande, Rachel
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Bhandari, Shiv
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Oct 13
+RISK 2 (6a-10a)	
+Keller, Carolyn
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Lenaeus, Mike
+Med M	
+Lande, Rachel
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+Med S	
+Pittenger, Brook
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Bhandari, Shiv
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 14
+RISK 2 (6a-10a)	
+Keller, Carolyn
+AM Swing/Med G (7a-3p)	
+Iacobelli, Nicholas
+Med A	
+Pillai, Sunita
+Med B	
+Mullins, Elizabeth
+Med C	
+Evans, Sophie
+Med D	
+Das, Ifna
+Med E	
+Auduong, L.
+Med F	
+Lenaeus, Mike
+Med M	
+Lande, Rachel
+Med O	
+Bajwa, Poornima
+Med Con.	
+Shen, Carlita
+Med S	
+Pittenger, Brook
+Clinic	
+Mookherjee, Som
+Abay, Rebecca
+PM Swing (12p-10p)	
+Hunt, Susan
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Bhandari, Shiv
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 15
+RISK 2 (6a-10a)	
+Iacobelli, Nicholas
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Lenaeus, Mike
+Med M	
+Keller, Carolyn
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+Med S	
+Pittenger, Brook
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Hunt, Susan
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Rosiene, Joel
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 16
+RISK 2 (6a-10a)	
+Iacobelli, Nicholas
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Lenaeus, Mike
+Med M	
+Keller, Carolyn
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+Med S	
+Pittenger, Brook
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Hunt, Susan
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+LaMotte, Eric
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 17
+RISK 2 (6a-10a)	
+Shepherd, Amanda
+AM Swing/Med G (7a-3p)	
+Collis, Alexandra
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Parks, Michelle
+Med M	
+Keller, Carolyn
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+Med S	
+Pittenger, Brook
+Clinic	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Wilson, Julia
+Noc 1 (6p-4a)	
+Parekh, Pooja
+RISK 1 (6p-3p)	
+LaMotte, Eric
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 18
+RISK 2 (6a-10a)	
+Shepherd, Amanda
+AM Swing/Med G (7a-3p)	
+Collis, Alexandra
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Parks, Michelle
+Med M	
+Keller, Carolyn
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Parekh, Pooja
+RISK 1 (6p-3p)	
+LaMotte, Eric
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 19
+RISK 2 (6a-10a)	
+Shepherd, Amanda
+AM Swing/Med G (7a-3p)	
+Evans, Sophie
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Parks, Michelle
+Med M	
+Keller, Carolyn
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Parekh, Pooja
+RISK 1 (6p-3p)	
+Raskob, Katie
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 20
+RISK 2 (6a-10a)	
+Mullins, Elizabeth
+AM Swing/Med G (7a-3p)	
+Evans, Sophie
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Parks, Michelle
+Med M	
+Wilson, Julia
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+Med S	
+Abay, Rebecca
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Parekh, Pooja
+RISK 1 (6p-3p)	
+LaMotte, Eric
+Noc 2 (10p-8a)	
+Benson, Doug
+Oct 21
+RISK 2 (6a-10a)	
+Mullins, Elizabeth
+AM Swing/Med G (7a-3p)	
+Evans, Sophie
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Trudeau, Brittany
+Med F	
+Parks, Michelle
+Med M	
+Wilson, Julia
+Med O	
+Barnes, James
+Med Con.	
+Hoy, Alex
+Med S	
+Abay, Rebecca
+Clinic	
+Chen, Tiffany
+Shen, Carlita
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Raskob, Katie
+Noc 2 (10p-8a)	
+Benson, Doug
+Oct 22
+RISK 2 (6a-10a)	
+Collis, Alexandra
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Mullins, Elizabeth
+Med M	
+Wilson, Julia
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+Med S	
+Abay, Rebecca
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Raskob, Katie
+Noc 2 (10p-8a)	
+Benson, Doug
+Oct 23
+RISK 2 (6a-10a)	
+Collis, Alexandra
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Mullins, Elizabeth
+Med M	
+Wilson, Julia
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+Med S	
+Abay, Rebecca
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Bajwa, Poornima
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Raskob, Katie
+Noc 2 (10p-8a)	
+Benson, Doug
+Oct 24
+RISK 2 (6a-10a)	
+Hoy, Alex
+AM Swing/Med G (7a-3p)	
+Lande, Rachel
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Mullins, Elizabeth
+Med M	
+Wilson, Julia
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+Med S	
+Abay, Rebecca
+Clinic	
+Shen, Carlita
+PM Swing (12p-10p)	
+Bajwa, Poornima
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Iacobelli, Nicholas
+Noc 2 (10p-8a)	
+Benson, Doug
+Oct 25
+RISK 2 (6a-10a)	
+Kusztos, Amanda
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Mullins, Elizabeth
+Med M	
+LaMotte, Eric
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+PM Swing (12p-10p)	
+White, Andrew
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Iacobelli, Nicholas
+Noc 2 (10p-8a)	
+Sunga, Cass
+Oct 26
+RISK 2 (6a-10a)	
+Kusztos, Amanda
+AM Swing/Med G (7a-3p)	
+Das, Ifna
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Mullins, Elizabeth
+Med M	
+LaMotte, Eric
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+PM Swing (12p-10p)	
+White, Andrew
+Noc 1 (6p-4a)	
+Bhandari, Shiv
+RISK 1 (6p-3p)	
+Iacobelli, Nicholas
+Noc 2 (10p-8a)	
+Sunga, Cass
+Oct 27
+RISK 2 (6a-10a)	
+Hoy, Alex
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Parekh, Pooja
+Med M	
+LaMotte, Eric
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+Med S	
+Shen, Carlita
+Clinic	
+Chi, Frank
+PM Swing (12p-10p)	
+White, Andrew
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Bajwa, Poornima
+Noc 2 (10p-8a)	
+Sunga, Cass
+Oct 28
+RISK 2 (6a-10a)	
+Das, Ifna
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+Young, Scott
+Med B	
+Disharoon, Steven
+Med C	
+Deshpande, Neha
+Med D	
+Lazarevic-Fogelquist, Adrian
+Med E	
+Shepherd, Amanda
+Med F	
+Parekh, Pooja
+Med M	
+LaMotte, Eric
+Med O	
+Pillai, Sunita
+Med Con.	
+Segerson, K
+Med S	
+Shen, Carlita
+Clinic	
+Chi, Frank
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Bajwa, Poornima
+Noc 2 (10p-8a)	
+Sunga, Cass
+Oct 29
+RISK 2 (6a-10a)	
+Hunt, Susan
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Parekh, Pooja
+Med M	
+LaMotte, Eric
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Abe, Ryan
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 30
+RISK 2 (6a-10a)	
+Hunt, Susan
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Parekh, Pooja
+Med M	
+Lenaeus, Mike
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Chi, Frank
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Pillai, Sunita
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Oct 31
+RISK 2 (6a-10a)	
+Lande, Rachel
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Parekh, Pooja
+Med M	
+Lenaeus, Mike
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+Med S	
+Shen, Carlita
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Chi, Frank
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Benson, Doug
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Nov 1
+RISK 2 (6a-10a)	
+Mullins, Elizabeth
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Barnes, James
+Med M	
+Lenaeus, Mike
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Zafar, Zaeema
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Nov 2
+RISK 2 (6a-10a)	
+Mullins, Elizabeth
+AM Swing/Med G (7a-3p)	
+Bajwa, Poornima
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Barnes, James
+Med M	
+Lenaeus, Mike
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+PM Swing (12p-10p)	
+Feng, K.
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Zafar, Zaeema
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Nov 3
+RISK 2 (6a-10a)	
+Lazarevic-Fogelquist, Adrian
+AM Swing/Med G (7a-3p)	
+Young, Scott
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Barnes, James
+Med M	
+Lenaeus, Mike
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+Med S	
+Chi, Frank
+Clinic	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Zafar, Zaeema
+Noc 2 (10p-8a)	
+Kusztos, Amanda
+Nov 4
+RISK 2 (6a-10a)	
+Lazarevic-Fogelquist, Adrian
+AM Swing/Med G (7a-3p)	
+Young, Scott
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Raskob, Katie
+Med F	
+Barnes, James
+Med M	
+Iacobelli, Nicholas
+Med O	
+Evans, Sophie
+Med Con.	
+Hoy, Alex
+Med S	
+Chi, Frank
+Clinic	
+Shepherd, Amanda
+Chen, Tiffany
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Zafar, Zaeema
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 5
+RISK 2 (6a-10a)	
+Deshpande, Neha
+AM Swing/Med G (7a-3p)	
+Young, Scott
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Barnes, James
+Med M	
+Iacobelli, Nicholas
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+Med S	
+Chi, Frank
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Chen, Tiffany
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 6
+RISK 2 (6a-10a)	
+Deshpande, Neha
+AM Swing/Med G (7a-3p)	
+Young, Scott
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Iacobelli, Nicholas
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+Med S	
+Chi, Frank
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Chen, Tiffany
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 7
+RISK 2 (6a-10a)	
+Deshpande, Neha
+AM Swing/Med G (7a-3p)	
+Young, Scott
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Iacobelli, Nicholas
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+Med S	
+Chi, Frank
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Evans, Sophie
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 8
+RISK 2 (6a-10a)	
+Young, Scott
+AM Swing/Med G (7a-3p)	
+Shen, Carlita
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Iacobelli, Nicholas
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+PM Swing (12p-10p)	
+Shepherd, Amanda
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Evans, Sophie
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 9
+RISK 2 (6a-10a)	
+Young, Scott
+AM Swing/Med G (7a-3p)	
+Shen, Carlita
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Lande, Rachel
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+PM Swing (12p-10p)	
+Deshpande, Neha
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Chi, Frank
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 10
+RISK 2 (6a-10a)	
+Disharoon, Steven
+AM Swing/Med G (7a-3p)	
+Shen, Carlita
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Lande, Rachel
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+Med S	
+Mullins, Elizabeth
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Chi, Frank
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 11
+RISK 2 (6a-10a)	
+Disharoon, Steven
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+Pittenger, Brook
+Med B	
+Mayo, Mark
+Med C	
+Wilson, Julia
+Med D	
+Parks, Michelle
+Med E	
+Pillai, Sunita
+Med F	
+Hunt, Susan
+Med M	
+Lande, Rachel
+Med O	
+Auduong, L.
+Med Con.	
+Das, Ifna
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Iacobelli, Nicholas
+Noc 2 (10p-8a)	
+Parekh, Pooja
+Nov 12
+RISK 2 (6a-10a)	
+Disharoon, Steven
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Haselden, Lindsay
+Med M	
+Lande, Rachel
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+Med S	
+Mullins, Elizabeth
+Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Lenaeus, Mike
+Noc 1 (6p-4a)	
+Parekh, Pooja
+RISK 1 (6p-3p)	
+Iacobelli, Nicholas
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Nov 13
+RISK 2 (6a-10a)	
+Disharoon, Steven
+AM Swing/Med G (7a-3p)	
+Raskob, Katie
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Haselden, Lindsay
+Med M	
+Lande, Rachel
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+Med S	
+Mullins, Elizabeth
+Clinic	
+Kaplan, Elizabeth
+Hoy, Alex
+PM Swing (12p-10p)	
+Lenaeus, Mike
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Shepherd, Amanda
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Nov 14
+RISK 2 (6a-10a)	
+Young, Scott
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Haselden, Lindsay
+Med M	
+Levin, Jesse
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+Med S	
+Mullins, Elizabeth
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Auduong, L.
+Noc 1 (6p-4a)	
+Benson, Doug
+RISK 1 (6p-3p)	
+Hoy, Alex
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Nov 15
+RISK 2 (6a-10a)	
+Lande, Rachel
+AM Swing/Med G (7a-3p)	
+Merel, Susan
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Haselden, Lindsay
+Med M	
+Levin, Jesse
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+PM Swing (12p-10p)	
+Mullins, Elizabeth
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Hoy, Alex
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Nov 16
+RISK 2 (6a-10a)	
+Lande, Rachel
+AM Swing/Med G (7a-3p)	
+Merel, Susan
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Haselden, Lindsay
+Med M	
+Levin, Jesse
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Hoy, Alex
+Noc 2 (10p-8a)	
+Evans, Sophie
+Nov 17
+RISK 2 (6a-10a)	
+White, Andrew
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Shen, Carlita
+Med M	
+Levin, Jesse
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+Med S	
+Young, Scott
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Mullins, Elizabeth
+Noc 2 (10p-8a)	
+Evans, Sophie
+Nov 18
+RISK 2 (6a-10a)	
+Lenaeus, Mike
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Lazarevic-Fogelquist, Adrian
+Med F	
+Shen, Carlita
+Med M	
+Levin, Jesse
+Med O	
+Trudeau, Brittany
+Med Con.	
+Chi, Frank
+Med S	
+Young, Scott
+Clinic	
+Segerson, K
+1/2 Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Mullins, Elizabeth
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 19
+RISK 2 (6a-10a)	
+Lenaeus, Mike
+AM Swing/Med G (7a-3p)	
+Benson, Doug
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Shen, Carlita
+Med M	
+Barnes, James
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+Med S	
+Young, Scott
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Wilson, Julia
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Mullins, Elizabeth
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 20
+RISK 2 (6a-10a)	
+Segerson, K
+AM Swing/Med G (7a-3p)	
+Benson, Doug
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Shen, Carlita
+Med M	
+Barnes, James
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+Med S	
+Young, Scott
+Clinic	
+Kaplan, Elizabeth
+1/2 Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Haselden, Lindsay
+RISK 1 (6p-3p)	
+Mullins, Elizabeth
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 21
+RISK 2 (6a-10a)	
+Segerson, K
+AM Swing/Med G (7a-3p)	
+Benson, Doug
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Wilson, Julia
+Med M	
+Barnes, James
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+Med S	
+Young, Scott
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Haselden, Lindsay
+RISK 1 (6p-3p)	
+Chen, Tiffany
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 22
+RISK 2 (6a-10a)	
+Chi, Frank
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Wilson, Julia
+Med M	
+Barnes, James
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Haselden, Lindsay
+RISK 1 (6p-3p)	
+Chen, Tiffany
+Noc 2 (10p-8a)	
+Abe, Ryan
+Nov 23
+RISK 2 (6a-10a)	
+Chi, Frank
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Wilson, Julia
+Med M	
+Barnes, James
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Raskob, Katie
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Sunga, Cass
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 24
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Wilson, Julia
+Med M	
+Pittenger, Brook
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+Med S	
+Mullins, Elizabeth
+Clinic	
+Parks, Michelle
+PM Swing (12p-10p)	
+Keller, Carolyn
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Sunga, Cass
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 25
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+LaMotte, Eric
+Med B	
+Zafar, Zaeema
+Med C	
+Feng, K.
+Med D	
+Rosiene, Joel
+Med E	
+Parekh, Pooja
+Med F	
+Wilson, Julia
+Med M	
+Pittenger, Brook
+Med O	
+Hunt, Susan
+Med Con.	
+Shepherd, Amanda
+Med S	
+Mullins, Elizabeth
+Clinic	
+Mookherjee, Som
+Parks, Michelle
+PM Swing (12p-10p)	
+Keller, Carolyn
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Sunga, Cass
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 26
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Evans, Sophie
+Med M	
+Pittenger, Brook
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+Med S	
+Mullins, Elizabeth
+Clinic	
+Parks, Michelle
+PM Swing (12p-10p)	
+Iacobelli, Nicholas
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Mayo, Mark
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 27
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Evans, Sophie
+Med M	
+Pittenger, Brook
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Iacobelli, Nicholas
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Mayo, Mark
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 28
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Evans, Sophie
+Med M	
+Pittenger, Brook
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Bajwa, Poornima
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Mayo, Mark
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 29
+RISK 2 (6a-10a)	
+Levin, Jesse
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Evans, Sophie
+Med M	
+Haselden, Lindsay
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Keller, Carolyn
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Nov 30
+RISK 2 (6a-10a)	
+Levin, Jesse
+AM Swing/Med G (7a-3p)	
+Mullins, Elizabeth
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Evans, Sophie
+Med M	
+Haselden, Lindsay
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Lenaeus, Mike
+Noc 2 (10p-8a)	
+Sunga, Cass
+Dec 1
+RISK 2 (6a-10a)	
+Raskob, Katie
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Barnes, James
+Med M	
+Haselden, Lindsay
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+Med S	
+Shepherd, Amanda
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Young, Scott
+Noc 1 (6p-4a)	
+Pillai, Sunita
+RISK 1 (6p-3p)	
+Feng, K.
+Noc 2 (10p-8a)	
+Sunga, Cass
+Dec 2
+RISK 2 (6a-10a)	
+Raskob, Katie
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Disharoon, Steven
+Med F	
+Barnes, James
+Med M	
+Haselden, Lindsay
+Med O	
+Collis, Alexandra
+Med Con.	
+Abay, Rebecca
+Med S	
+Shepherd, Amanda
+Clinic	
+Segerson, K
+Parks, Michelle
+PM Swing (12p-10p)	
+Young, Scott
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Hunt, Susan
+Noc 2 (10p-8a)	
+Sunga, Cass
+Dec 3
+RISK 2 (6a-10a)	
+Parks, Michelle
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Barnes, James
+Med M	
+Haselden, Lindsay
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+Med S	
+Shepherd, Amanda
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Young, Scott
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Merel, Susan
+Noc 2 (10p-8a)	
+Sunga, Cass
+Dec 4
+RISK 2 (6a-10a)	
+Parks, Michelle
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Barnes, James
+Med M	
+Pittenger, Brook
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+Med S	
+Shepherd, Amanda
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Bajwa, Poornima
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Deshpande, Neha
+Noc 2 (10p-8a)	
+Sunga, Cass
+Dec 5
+RISK 2 (6a-10a)	
+Parks, Michelle
+AM Swing/Med G (7a-3p)	
+Wilson, Julia
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Barnes, James
+Med M	
+Pittenger, Brook
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+Med S	
+Shepherd, Amanda
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Bajwa, Poornima
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Deshpande, Neha
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 6
+RISK 2 (6a-10a)	
+Trudeau, Brittany
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Iacobelli, Nicholas
+Med M	
+Pittenger, Brook
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Abe, Ryan
+RISK 1 (6p-3p)	
+Deshpande, Neha
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 7
+RISK 2 (6a-10a)	
+Trudeau, Brittany
+AM Swing/Med G (7a-3p)	
+Feng, K.
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Iacobelli, Nicholas
+Med M	
+Pittenger, Brook
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Lande, Rachel
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Das, Ifna
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 8
+RISK 2 (6a-10a)	
+Wilson, Julia
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Iacobelli, Nicholas
+Med M	
+Pittenger, Brook
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+Med S	
+Parks, Michelle
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Das, Ifna
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 9
+RISK 2 (6a-10a)	
+Wilson, Julia
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+Chen, Austin
+Med B	
+Benson, Doug
+Med C	
+Shen, Carlita
+Med D	
+Hoy, Alex
+Med E	
+Auduong, L.
+Med F	
+Iacobelli, Nicholas
+Med M	
+Trudeau, Brittany
+Med O	
+Parekh, Pooja
+Med Con.	
+Zafar, Zaeema
+Med S	
+Parks, Michelle
+Clinic	
+Mullins, Elizabeth
+Abay, Rebecca
+PM Swing (12p-10p)	
+Lazarevic-Fogelquist, Adrian
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Das, Ifna
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 10
+RISK 2 (6a-10a)	
+Wilson, Julia
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+Iacobelli, Nicholas
+Med M	
+Trudeau, Brittany
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+Med S	
+Parks, Michelle
+Clinic	
+Mullins, Elizabeth
+PM Swing (12p-10p)	
+Mayo, Mark
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Abay, Rebecca
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 11
+RISK 2 (6a-10a)	
+Pittenger, Brook
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+LaMotte, Eric
+Med M	
+Trudeau, Brittany
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+Med S	
+Parks, Michelle
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Wilson, Julia
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Abay, Rebecca
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 12
+RISK 2 (6a-10a)	
+Pittenger, Brook
+AM Swing/Med G (7a-3p)	
+Pillai, Sunita
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+LaMotte, Eric
+Med M	
+Trudeau, Brittany
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+Med S	
+Parks, Michelle
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Auduong, L.
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Abay, Rebecca
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Dec 13
+RISK 2 (6a-10a)	
+Pittenger, Brook
+AM Swing/Med G (7a-3p)	
+Barnes, James
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+LaMotte, Eric
+Med M	
+Trudeau, Brittany
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+PM Swing (12p-10p)	
+Auduong, L.
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Lenaeus, Mike
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Dec 14
+RISK 2 (6a-10a)	
+Sunga, Cass
+AM Swing/Med G (7a-3p)	
+Barnes, James
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+LaMotte, Eric
+Med M	
+Keller, Carolyn
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+PM Swing (12p-10p)	
+Auduong, L.
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Benson, Doug
+Noc 2 (10p-8a)	
+Bhandari, Shiv
+Dec 15
+RISK 2 (6a-10a)	
+Sunga, Cass
+AM Swing/Med G (7a-3p)	
+Parekh, Pooja
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+Evans, Sophie
+Med M	
+Keller, Carolyn
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+Med S	
+Fancher-Dominguez, Lexy
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Benson, Doug
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 16
+RISK 2 (6a-10a)	
+LaMotte, Eric
+AM Swing/Med G (7a-3p)	
+Parekh, Pooja
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Haselden, Lindsay
+Med F	
+Evans, Sophie
+Med M	
+Keller, Carolyn
+Med O	
+Deshpande, Neha
+Med Con.	
+Young, Scott
+Med S	
+Fancher-Dominguez, Lexy
+Clinic	
+Segerson, K
+1/2 Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Benson, Doug
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 17
+RISK 2 (6a-10a)	
+LaMotte, Eric
+AM Swing/Med G (7a-3p)	
+Parekh, Pooja
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Evans, Sophie
+Med M	
+Keller, Carolyn
+Med O	
+Parks, Michelle
+Med Con.	
+Chen, Tiffany
+Med S	
+Fancher-Dominguez, Lexy
+Clinic	
+Segerson, K
+PM Swing (12p-10p)	
+Zafar, Zaeema
+Noc 1 (6p-4a)	
+Lazarevic-Fogelquist, Adrian
+RISK 1 (6p-3p)	
+Auduong, L.
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 18
+RISK 2 (6a-10a)	
+Zafar, Zaeema
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Pillai, Sunita
+Med M	
+Keller, Carolyn
+Med O	
+Parks, Michelle
+Med Con.	
+Chen, Tiffany
+Med S	
+Fancher-Dominguez, Lexy
+Clinic	
+Kaplan, Elizabeth
+1/2 Clinic	
+Hoy, Alex
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Auduong, L.
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 19
+RISK 2 (6a-10a)	
+Keller, Carolyn
+AM Swing/Med G (7a-3p)	
+Trudeau, Brittany
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Pillai, Sunita
+Med M	
+Collis, Alexandra
+Med O	
+Parks, Michelle
+Med Con.	
+Chen, Tiffany
+Med S	
+Fancher-Dominguez, Lexy
+Clinic	
+Mookherjee, Som
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Merel, Susan
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 20
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Pillai, Sunita
+Med M	
+Collis, Alexandra
+Med O	
+Parks, Michelle
+Med Con.	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Das, Ifna
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Shen, Carlita
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 21
+AM Swing/Med G (7a-3p)	
+Lenaeus, Mike
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Pillai, Sunita
+Med M	
+Collis, Alexandra
+Med O	
+Parks, Michelle
+Med Con.	
+Chen, Tiffany
+PM Swing (12p-10p)	
+Iacobelli, Nicholas
+Noc 1 (6p-4a)	
+Rosiene, Joel
+RISK 1 (6p-3p)	
+Shen, Carlita
+Noc 2 (10p-8a)	
+Abe, Ryan
+Dec 22
+AM Swing/Med G (7a-3p)	
+Haselden, Lindsay
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Chen, Tiffany
+Med S	
+Segerson, K
+Clinic	
+Young, Scott
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Zafar, Zaeema
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 23
+AM Swing/Med G (7a-3p)	
+Haselden, Lindsay
+Med A	
+McDonough, Karen
+Med B	
+Raskob, Katie
+Med C	
+White, Andrew
+Med D	
+Disharoon, Steven
+Med E	
+Wilson, Julia
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Chen, Tiffany
+Med S	
+Segerson, K
+Clinic	
+Kaplan, Elizabeth
+Fancher-Dominguez, Lexy
+PM Swing (12p-10p)	
+Pittenger, Brook
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Rosiene, Joel
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 24
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Das, Ifna
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Zafar, Zaeema
+Med S	
+Segerson, K
+Clinic	
+Fancher-Dominguez, Lexy
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pittenger, Brook
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 25
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Das, Ifna
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pittenger, Brook
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 26
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Das, Ifna
+Med F	
+Hunt, Susan
+Med M	
+Benson, Doug
+Med O	
+Abay, Rebecca
+Med Con.	
+Zafar, Zaeema
+Med S	
+Segerson, K
+Clinic	
+Kaplan, Elizabeth
+PM Swing (12p-10p)	
+Pillai, Sunita
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pittenger, Brook
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 27
+AM Swing/Med G (7a-3p)	
+Deshpande, Neha
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Das, Ifna
+Med F	
+Hunt, Susan
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Young, Scott
+Noc 2 (10p-8a)	
+Evans, Sophie
+Dec 28
+AM Swing/Med G (7a-3p)	
+Pittenger, Brook
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Das, Ifna
+Med F	
+Haselden, Lindsay
+Med M	
+Parekh, Pooja
+Med O	
+Abay, Rebecca
+Med Con.	
+Zafar, Zaeema
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Young, Scott
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 29
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Feng, K.
+Med F	
+Haselden, Lindsay
+Med M	
+Raskob, Katie
+Med O	
+Iacobelli, Nicholas
+Med Con.	
+Zafar, Zaeema
+Med S	
+Segerson, K
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Benson, Doug
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Auduong, L.
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 30
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Feng, K.
+Med F	
+Haselden, Lindsay
+Med M	
+Raskob, Katie
+Med O	
+Iacobelli, Nicholas
+Med Con.	
+Zafar, Zaeema
+Med S	
+Abay, Rebecca
+Clinic	
+Shepherd, Amanda
+Young, Scott
+PM Swing (12p-10p)	
+Evans, Sophie
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Parks, Michelle
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Dec 31
+AM Swing/Med G (7a-3p)	
+Disharoon, Steven
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Feng, K.
+Med F	
+Haselden, Lindsay
+Med M	
+Raskob, Katie
+Med O	
+Iacobelli, Nicholas
+Med Con.	
+Fancher-Dominguez, Lexy
+Med S	
+Abay, Rebecca
+Clinic	
+Shepherd, Amanda
+PM Swing (12p-10p)	
+Wilson, Julia
+Noc 1 (6p-4a)	
+Kusztos, Amanda
+RISK 1 (6p-3p)	
+Parks, Michelle
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jan 1
+AM Swing/Med G (7a-3p)	
+Sokol-Hessner, Lauge
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Haselden, Lindsay
+Med M	
+Raskob, Katie
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+PM Swing (12p-10p)	
+LaMotte, Eric
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Pillai, Sunita
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jan 2
+AM Swing/Med G (7a-3p)	
+Sokol-Hessner, Lauge
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Collis, Alexandra
+Med M	
+Raskob, Katie
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+Med S	
+Abay, Rebecca
+Clinic	
+Pittenger, Brook
+PM Swing (12p-10p)	
+Parks, Michelle
+Noc 1 (6p-4a)	
+Wilson, Julia
+RISK 1 (6p-3p)	
+Pillai, Sunita
+Noc 2 (10p-8a)	
+Rosiene, Joel
+Jan 3
+RISK 2 (6a-10a)	
+Sokol-Hessner, Lauge
+AM Swing/Med G (7a-3p)	
+Chi, Frank
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Collis, Alexandra
+Med M	
+Benson, Doug
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pillai, Sunita
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Jan 4
+RISK 2 (6a-10a)	
+Sokol-Hessner, Lauge
+AM Swing/Med G (7a-3p)	
+Chi, Frank
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Collis, Alexandra
+Med M	
+Benson, Doug
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+PM Swing (12p-10p)	
+Levin, Jesse
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pillai, Sunita
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Jan 5
+RISK 2 (6a-10a)	
+Shen, Carlita
+AM Swing/Med G (7a-3p)	
+Evans, Sophie
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Collis, Alexandra
+Med M	
+Benson, Doug
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+Med S	
+Abay, Rebecca
+Clinic	
+Chi, Frank
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pittenger, Brook
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
+Jan 6
+RISK 2 (6a-10a)	
+Shen, Carlita
+AM Swing/Med G (7a-3p)	
+Evans, Sophie
+Med A	
+Bajwa, Poornima
+Med B	
+Bhandari, Shiv
+Med C	
+Lande, Rachel
+Med D	
+Holmberg, Mack
+Med E	
+Trudeau, Brittany
+Med F	
+Collis, Alexandra
+Med M	
+Benson, Doug
+Med O	
+Auduong, L.
+Med Con.	
+Fancher-Dominguez, Lexy
+Med S	
+Abay, Rebecca
+Clinic	
+Chi, Frank
+Hoy, Alex
+PM Swing (12p-10p)	
+Barnes, James
+Noc 1 (6p-4a)	
+Sunga, Cass
+RISK 1 (6p-3p)	
+Pittenger, Brook
+Noc 2 (10p-8a)	
+Lazarevic-Fogelquist, Adrian
