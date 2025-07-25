@@ -1,7 +1,6 @@
 library(shiny)
 library(dplyr)
 library(ggplot2)
-library(lubridate)
 library(scales)
 
 #Define parse:
@@ -48,11 +47,15 @@ uw_palette <- c("#4B2E83", "#B7A57A") # Purple to Gold
 # assignments <- parse_assignments_txt("assignments.txt")
 
 # For demo, load assignments here:
-assignments <- parse_assignments_txt("assignments.txt")
+assignments <- readRDS("assignments.rds")
 all_individuals <- sort(unique(assignments$Individual))
 
 # Convert dates to Date objects (assuming year is 2025, adjust as needed)
-assignments$DateObj <- mdy(paste(assignments$Date, "2025"))
+# Instead of:
+assignments$DateObj <- as.Date(paste(assignments$Date, "2025"), format = "%b %d %Y")
+
+# Use base R:
+assignments$DateObj <- as.Date(paste(assignments$Date, "2025"), format = "%b %d %Y")
 
 ui <- fluidPage(
   titlePanel("Medicine Scheduler: Calendar Heatmap of Free People"),
@@ -98,12 +101,12 @@ server <- function(input, output, session) {
     )
     # For calendar layout
     # For calendar layout: week of month
-    df$Year <- year(df$Date)
-    df$Month <- month(df$Date, label = TRUE, abbr = TRUE)
-    df$Day <- day(df$Date)
-    df$FirstOfMonth <- as.Date(paste(df$Year, month(df$Date), 1, sep = "-"))
-    df$Wday <- wday(df$Date, week_start = 1)
-    df$WeekOfMonth <- as.integer((df$Day + wday(df$FirstOfMonth, week_start = 1) - 2) / 7) + 1
+    df$Year <- as.integer(format(df$Date, "%Y"))
+    df$Month <- format(df$Date, "%b")
+    df$Day <- as.integer(format(df$Date, "%d"))
+    df$FirstOfMonth <- as.Date(paste(df$Year, format(df$Date, "%m"), "1", sep = "-"))
+    df$Wday <- as.integer(format(df$Date, "%u")) # 1=Monday, 7=Sunday
+    df$WeekOfMonth <- as.integer((df$Day + as.integer(format(df$FirstOfMonth, "%u")) - 2) / 7) + 1
 
     # Plot
     ggplot(df, aes(x = Wday, y = -WeekOfMonth, fill = Free)) +
